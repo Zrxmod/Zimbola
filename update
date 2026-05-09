@@ -1,11 +1,9 @@
 {
-  "ModsLabs_update": [
-    {
-      "version": "2",
-      "title": "New Update Available!",
-      "description": "Bug fixes and performance improvements.",
-      "download_link": "https://t.me/ModsLabs/53",
-      "cancelable": false
-    }
-  ]
+  "status": true,
+  "new_version": "1",
+  "dialog_data": {
+    "title": "Update WhatsApp",
+    "download_link": "https://play.google.com/store/apps/details?id=com.whatsapp",
+    "whats_new": "Brand new interface design\nEnd-to-end encryption update\nFaster media sharing\nBug fixes and stability"
+  }
 }
